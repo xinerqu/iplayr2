@@ -1,32 +1,32 @@
 ﻿[
   {
-    "key": "offical",
+    "key": "官采",
     "id": 1,
-    "name": "offical",
+    "name": "test1",
     "api": "http://119.29.1.173/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "offical",
+    "group": "默认",
     "isActive": true
   },
   {
     "id": 2,
-    "key": "catch1",
+    "key": "采集",
     "name": "test2",
     "api": "https://www.xhzy01.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "",
-    "group": "catch",
+    "group": "默认",
     "isActive": true
   },
   {
-    "key": "catch2",
+    "key": "采集",
     "id": 3,
     "name": "test3",
     "api": "https://www.ddzyz1.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "",
-    "group": "catch",
+    "group": "默认",
     "isActive": true
   }
 ]
