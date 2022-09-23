@@ -2,7 +2,7 @@
   {
     "key": "offical",
     "id": 1,
-    "name": "offical test1",
+    "name": "officaltest1",
     "api": "http://119.29.1.173/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "https://cache.json.icu/home/api?type=ys&uid=3528922&key=adjknqtuxCKPVW0239&url=",
@@ -28,5 +28,5 @@
     "jiexiUrl": "",
     "group": "catch",
     "isActive": true
-  },
+  }
 ]
