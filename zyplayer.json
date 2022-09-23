@@ -3,7 +3,7 @@
     "key": "官采",
     "id": 1,
     "name": "test1",
-    "api": "http://119.29.1.173/api.php/provide/vod/at/xml/",
+    "api": "https://zy.beiyan.cc:4433/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
@@ -20,7 +20,7 @@
     "isActive": true
   },
   {
-    "key": "采集",
+    "key": "采集2",
     "id": 3,
     "name": "test3",
     "api": "https://www.ddzyz1.com/api.php/provide/vod/at/xml/",
